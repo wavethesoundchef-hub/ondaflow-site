@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:"/ondaflow-site/_next/static/chunks/327hiana52jrt.js"
+4:"/ondaflow-site/_next/static/chunks/2cvzv7tgptqig.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:I[22016,["$3","$4"],""]
+c:I[5014,["$3","$4"],"default"]
+d:I[97367,["$3","$4"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$3","$4"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$3","$4"],"$13"]
+15:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-7xl px-5 sm:px-8 py-32 text-center","children":[["$","p",null,{"className":"font-display text-sm font-semibold uppercase tracking-[0.2em] text-lime","children":"404"}],["$","h1",null,{"className":"mt-4 font-display text-4xl font-semibold tracking-tight sm:text-5xl","children":"This page has moved on."}],["$","p",null,{"className":"mx-auto mt-4 max-w-md text-paper/70","children":"The page you’re looking for doesn’t exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"group inline-flex items-center justify-center gap-2 rounded-lg font-semibold tracking-tight whitespace-nowrap transition-all duration-200 active:scale-[0.98] disabled:opacity-60 disabled:pointer-events-none bg-lime text-ink hover:bg-paper hover:shadow-[0_0_0_4px_rgba(184,255,61,0.18)] h-11 px-5 text-sm  ","children":["Back home",["$","$Lc",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-4 transition-transform duration-200 group-hover:translate-x-0.5 group-hover:-translate-y-px","aria-hidden":true}]]}],["$","$Lb",null,{"href":"/portfolio","className":"group inline-flex items-center justify-center gap-2 rounded-lg font-semibold tracking-tight whitespace-nowrap transition-all duration-200 active:scale-[0.98] disabled:opacity-60 disabled:pointer-events-none border border-paper/25 text-paper hover:border-lime hover:text-lime h-11 px-5 text-sm  ","children":["View our work","$undefined"]}]]}]]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$9"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#080909"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ONDAFLOW — Keep Your Business Moving."}],["$","meta","1",{"name":"description","content":"ONDAFLOW designs websites, builds distinctive brand identities and creates smarter digital solutions that help businesses look professional, work efficiently and grow."}],["$","meta","2",{"name":"application-name","content":"ONDAFLOW"}],["$","meta","3",{"property":"og:title","content":"ONDAFLOW — Keep Your Business Moving."}],["$","meta","4",{"property":"og:description","content":"ONDAFLOW designs websites, builds distinctive brand identities and creates smarter digital solutions that help businesses look professional, work efficiently and grow."}],["$","meta","5",{"property":"og:site_name","content":"ONDAFLOW"}],["$","meta","6",{"property":"og:locale","content":"en"}],["$","meta","7",{"property":"og:image","content":"https://wavethesoundchef-hub.github.io/ondaflow-site/ondaflow-site/opengraph-image.png?opengraph-image.2fow4xd4euu29.png"}],["$","meta","8",{"property":"og:image:type","content":"image/png"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ONDAFLOW — Keep Your Business Moving."}],["$","meta","14",{"name":"twitter:description","content":"ONDAFLOW designs websites, builds distinctive brand identities and creates smarter digital solutions that help businesses look professional, work efficiently and grow."}],["$","meta","15",{"name":"twitter:image","content":"https://wavethesoundchef-hub.github.io/ondaflow-site/ondaflow-site/twitter-image.png?twitter-image.2fow4xd4euu29.png"}],["$","meta","16",{"name":"twitter:image:type","content":"image/png"}],["$","meta","17",{"name":"twitter:image:width","content":"1200"}],["$","meta","18",{"name":"twitter:image:height","content":"630"}],["$","link","19",{"rel":"icon","href":"/ondaflow-site/icon.png?icon.3fnjr0ejc4biw.png","sizes":"512x512","type":"image/png"}],["$","link","20",{"rel":"apple-touch-icon","href":"/ondaflow-site/apple-icon.png?apple-icon.0hv5odwr-tr7x.png","sizes":"180x180","type":"image/png"}],["$","$L15","21",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$9"}},"a":"$@17","u":"$@18","b":"p0hOeB-Er1i9KVOK7mWdf"}
+f:null
+18:true
+9:300
+9:C
+17:0
+7:"$undefined"
+16:"$undefined"
+10:"$undefined"
