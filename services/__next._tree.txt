@@ -1,0 +1,8 @@
+:HL["/ondaflow-site/_next/static/chunks/112gyskgdfsum.css","style"]
+:HL["/ondaflow-site/_next/static/media/bricolage_grotesque_latin_wght_normal-s.p.1iqnhac4m3hwo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ondaflow-site/_next/static/media/ibm_plex_mono_latin_400_normal-s.p.3xdfs0-p_zi4c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ondaflow-site/_next/static/media/ibm_plex_mono_latin_500_normal-s.p.11q3guvgd1r20.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ondaflow-site/_next/static/media/instrument_sans_latin_wght_normal-s.p.3h2wr6o8p949u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"services","h":64,"c":"$Q2"}]]
+0:{"b":"X4w4y611BUea75mnDWq3u","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
